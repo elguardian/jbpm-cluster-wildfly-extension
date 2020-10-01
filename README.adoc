@@ -1,0 +1,8 @@
+= jBPM wildfly cluster environment extension
+:technologies: JBoss MSC, Singleton Service, Clustering
+
+Adding this to kie-server.war / WEB-INF/lib will add support to some features regarding the knowledge of cluster
+environment like process start timers among kie-server deployed in wildfly cluster.
+
+See:
+https://issues.redhat.com/browse/JBPM-9399
